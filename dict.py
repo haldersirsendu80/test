@@ -95,40 +95,6 @@ s3_event={
           'sequencer': '005D679BE4AD361BD6'
         }
       }
-    },
-    {
-      'eventVersion': '2.1',
-      'eventSource': 'aws:s3',
-      'awsRegion': 'us-east-1',
-      'eventTime': '2019-08-29T09:33:24.736Z',
-      'eventName': 'ObjectCreated:Put',
-      'userIdentity': {
-        'principalId': 'AWS:AIDA3AW5VFDLLWBDB3TQB'
-      },
-      'requestParameters': {
-        'sourceIPAddress': '54.167.54.94'
-      },
-      'responseElements': {
-        'x-amz-request-id': 'xxxxxxx',
-        'x-amz-id-2': 'xxxxxxxxxxxxxx'
-      },
-      's3': {
-        's3SchemaVersion': '1.0',
-        'configurationId': '02732f98-e85b-4ac3-8407-b32119d6f300',
-        'bucket': {
-          'name': 'sqlserverbucket1',
-          'ownerIdentity': {
-            'principalId': 'A180M1JIQI0IZ1'
-          },
-          'arn': 'arn:aws:s3:::sqlserverbucket'
-        },
-        'object': {
-          'key': 'custrec1.json',
-          'size': 759,
-          'eTag': 'a5f397824aab9c7e546dd5e524574fff',
-          'sequencer': '005D679BE4AD361BD6'
-        }
-      }
     }
   ]
 
