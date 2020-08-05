@@ -18,7 +18,7 @@ print(output)
 
 
 print('--------------------------------')
-print('working with another dictionary ')
+print('work with another dictionary ')
 print('--------------------------------')
 
 
@@ -39,7 +39,7 @@ print(nested_dict)
 
 
 print('-------------------------------')
-print('working with another dictionary')
+print('work with another dictionary')
 print('-------------------------------')
 
 dict1={'a':1,'b':2,'c':3,'d':4}
@@ -57,7 +57,7 @@ print('modified dictionary is')
 print(dict1)
 
 print('-------------------------------')
-print('working with another dictionary')
+print('work with another dictionary')
 print('-------------------------------')
 
 s3_event={
