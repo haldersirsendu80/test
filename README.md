@@ -1,2 +1,1 @@
-# test
-test repo for git command demonstration
+This is a GitHub repository!
